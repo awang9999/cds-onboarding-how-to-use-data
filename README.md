@@ -1,5 +1,5 @@
 # cds-onboarding-how-to-use-data
-This repository contains the associated code for a short talk given on 2021-10-23 to new members of the Cornell Data Science project team. <br>
+This repository contains the associated code for a short talk given on 2021-10-24 to new members of the Cornell Data Science project team. <br>
 
 The topics covered include:
 * How to read raw data from a .csv file into a Pandas DataFrame structure.
